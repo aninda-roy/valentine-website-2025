@@ -9,12 +9,12 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💕💝",
+    pageTitle: "For the love of my life 💕💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '💖', '💝', '💗'],  // Heart emojis
         bears: ['🙈', '🐻', '🤗', '🥰']                       // Cute bear emojis
     },
 
@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Will you build a future with me? 🤭",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I know you will❤️ Did the yes button run away? I'll beat him 🤭"           // Secret hover message
+            secretAnswer: "I know you will❤️ Did the yes button run away? I'll scold him 🤭"           // Secret hover message
         },
         second: {
             text: "I know you love me but how much? 🙈 TIP: It can go beyond 100% 🤭",                          // For the love meter
